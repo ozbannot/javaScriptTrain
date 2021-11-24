@@ -14,3 +14,8 @@ function getNumberOfComment()
 }
 
 console.log(getNumberOfComment());
+
+// アロー関数
+const getItem = () => {console.log('アロー')};
+getItem();
+
