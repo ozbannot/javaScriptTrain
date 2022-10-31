@@ -1,5 +1,5 @@
 // const formTest1 = document.getElementById('form_test1');
-// console.log(formTest1);
+
 
 const formTest = document.forms;
 console.log(formTest);
